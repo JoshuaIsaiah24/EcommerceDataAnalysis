@@ -58,7 +58,7 @@ To get started with these projects, clone this repository and explore the provid
 
 I  have created a simple yet comprehensive visualization that summarizes the annual sales report for an ecommerce business.
 
-[See Ecommerce Annual Report] (https://public.tableau.com/views/EcommerceAnnualSalesReport/AnnualReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[See Ecommerce Annual Report](https://public.tableau.com/views/EcommerceAnnualSalesReport/AnnualReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The report provides insights into key performance metrics and trends throughout the year.
 
