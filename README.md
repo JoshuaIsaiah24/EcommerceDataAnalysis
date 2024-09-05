@@ -54,6 +54,14 @@ This project builds on the cleaned dataset from Project 1 to explore customer be
 
 To get started with these projects, clone this repository and explore the provided SQL scripts. Ensure you have a SQL environment set up to run the queries and analyze the results.
 
+## Visualization
+
+I  have created a simple yet comprehensive visualization that summarizes the annual sales report for an ecommerce business.
+
+[See Ecommerce Annual Report] (https://public.tableau.com/views/EcommerceAnnualSalesReport/AnnualReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The report provides insights into key performance metrics and trends throughout the year.
+
 # Conclusion
 
 These projects demonstrate the power of SQL in transforming raw eCommerce data into actionable insights. From cleaning and preparing data to in-depth analysis of sales performance and customer behavior, these projects serve as a comprehensive guide to using SQL for eCommerce analysis.
